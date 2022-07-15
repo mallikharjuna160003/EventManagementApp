@@ -3,7 +3,7 @@
    
    pip install django
    
-   django-admin startproject <project name>
+   django-admin startproject main
    
    python manage.py startapp eventmanager
    
