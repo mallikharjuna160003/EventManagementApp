@@ -1,5 +1,5 @@
 # EventManagementApp
-## Crud operationss
+Crud operationss
 # pip install django
 # django-admin startproject <project name>
 # python manage.py startapp eventmanager
